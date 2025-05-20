@@ -1,5 +1,5 @@
 # Checkpoint 2
-Documentação referente à API criada para o 2º checkpoint de *Microsservice and Web Engineering* (continuação da API do Chekcpoint 1).
+API para sistema de agendamento de consulta criada para o 2º checkpoint de *Microsservice and Web Engineering* (continuação da API do Checkpoint 1).
 
 ## Informações
 **Nome:** Gustavo de Carvalho Sena Ressurreição.
@@ -81,7 +81,7 @@ Use o *Maven* para iniciar a aplicação com o comando:
 ```
 mvn spring-boot:run
 ```
-Após a execução da aplicação, use ferramentas como **Postman** ou **Swagger UI** para testar os endpoints diretamente:
+Após a execução da aplicação, use a ferramenta **Swagger UI** para testar os endpoints diretamente:
 http://localhost:8080/swagger-ui/index.html. 
 
 
